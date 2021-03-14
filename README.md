@@ -1,2 +1,2 @@
-# Programiki
-Małe programy robione przy okazji
+# Smol Programmes
+
